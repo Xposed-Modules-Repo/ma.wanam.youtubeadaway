@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">YouTube AdAway</string>
+    <string name="module_active">is active!</string>
+    <string name="module_inactive">n’est PAS actif!\nSoyez-sûr qu'il est activé et REDÉMARRER.</string>
+    <string name="donate">Don</string>
+    <string name="no_thanks">Non merci</string>
+    <string name="whats_in">"Qu’est ce qu’il y a dedans:\nUn bloqueur de pubs pour les vidéos\nActivativateur de la lecture en arrière-plan"</string>
+    <string name="whats_not">"A FAIRE: Bloquer les pubs dans les vidéos incrustées (Pas d’estimations de temps!)\nCe projet est open-source, laissé libre à la contribution."</string>
+</resources>
